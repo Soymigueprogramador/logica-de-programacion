@@ -1,0 +1,10 @@
+¿ Que es la programacion ?
+
+La programacion es el proceso en el cual se le dice a una computadora como debe realizar tal operacion. 
+Esto se hace mediante lenguajes de programacion que la computadora puede entender
+
+¿ Cual es la responsabilidad de la programacion ?
+La programacion tiene como responsabilidad realizar tareas como:
+
+1- La resolucion de problemas mediante el desarrollo de algoritmos que permitan solucionar dichos problemas.
+2- Diseñar algoritmos y traducirlos en codigo que la maquina pueda ejecutar. 

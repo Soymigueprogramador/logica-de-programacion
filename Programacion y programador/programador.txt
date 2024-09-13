@@ -1,0 +1,12 @@
+¿ Que es un programador ?
+
+Un programador es aquel que:
+1- Crea
+2- Diseña
+3- programador
+4- Prueba 
+4- Matiene
+El codigo que hace que los programas de una computadora sigan funcionando.
+
+Los programadores no solo crean soluciones tecnicas si no que tambien aplican logica de programacion y pensamiento critico
+para resolver problemas de manera eficiente, traduciendo asi instrucciones abstractas para que una computadora las pueda seguir.

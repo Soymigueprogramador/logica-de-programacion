@@ -1,0 +1,13 @@
+¿ Que es el pensamiento computacional ?
+
+El pensamiento computacional es un tipo de enfoque que permite que podamos tomar un problema grande y descomponerlo en parque mas 
+pequeñas y manejables. 
+Identificar patrones y desarrollar algoritmos qye me permitan resolver el problema en pequeñas tareas.
+Este enfoque no es unicamente para la programacion, si no tambien se puede usar para otras diciplinas. 
+
+Item: 
+1- Descomposicion del problema
+2- Identificacion del problema
+3- Enfoque en lo escencial (Abstraccion)
+4- Desarrollo de algoritmos
+5- Analisis y mejoras de las soluciones (Evaluacion)

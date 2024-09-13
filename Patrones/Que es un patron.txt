@@ -1,0 +1,17 @@
+¿ Que son los patrones ?
+
+Un patros es un elemento repetitivo y predesible dentro de un conjunto de datos, situaciones o fenomenos.
+
+¿ Cuales son las caracteristias de un patron ?
+
+Los patrones tienen como caracteristicas a:
+1- repeticion:
+   los patrones son secuencias o caracteristicas que se repiten de manera constante.
+2- Discernibilidad:
+   Los patrones pueden ser predesibles o destacados dentro de un conjunto de datos o situaciones. 
+3- Predictibilidad:
+   Los patrones permiten anticipar comportamientos o resultados futuros basados en observaciones anteriores.
+4- Regularidad:
+   Los patrones presentan una disposicion constante de sus telementos a lo largo del tiempo o del espacio.
+5- Abstraccion:
+   Los patrones se pueden simplificar para representar informacion mas clara y manejable.

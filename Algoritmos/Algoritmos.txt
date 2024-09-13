@@ -1,0 +1,16 @@
+¿ Que es un algoritmo ?
+
+Un algoritmo es un conjunto de instrucciones ordenadas que se siguen para resolver un problema o 
+rdenadasrealizar una tarea espesifica.
+
+Item:
+1- Secuencia de pasos:
+   Una serie logica de pasos que deben seguirse en un orden especifico para lograr un objetivo.
+2- Presicion:
+   Cada paso debe ser definido y comprensible para una ejecucion presisa y consistente.
+3- Finitud:
+   Los algoritmos deben tener un numero finito de pasos, terminando una vez alcansado el objetivo o despues de un numero determinado de pasos.
+4- Solucion de problemas:
+   Diseñados para resolver problemas especificos.
+5- Eficiencia:
+   Un buen algoritmo no solo logra el resultado deseado, sino que no hace de manera eficiente, optimizando el uso de recursos como tiempo y memoria.

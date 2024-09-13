@@ -1,0 +1,11 @@
+Sacando una cancion en la guitarra usando el pensamiento computacional.
+
+pasos:
+
+1- Desglozar el proceso en pasos mas simples.
+2- Identificar el ritmo musical.
+3- Eliminar detalles ignesesarios.
+4- Seguir un algoritmo simple. 
+
+Proceso: 
+
