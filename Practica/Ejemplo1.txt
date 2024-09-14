@@ -9,3 +9,17 @@ pasos:
 
 Proceso: 
 
+1- Descomposicion:
+   Desarma la cancion en parques pequeñas y manejables 
+
+2- Reconocimiento de patrones:
+   Escucha la cancion e identifica las repeticiones, los cambio de acordes, los cambios de ritmo y la estructura de la cancion.
+
+3- Abstraccion:
+   Enfocate en lo escecial, toca solo los acordes basicos y el ritmo basico, deja de lado el solo y los adornos que hacen los otros instrumentos.
+
+4- Algoritmos:
+   Crea un conjunto de pasos simples que te permitan ir sacando la cancion por partes.
+
+5- Evaluacion: 
+   Revisa el proceso que estas usando y veras si te sirve para lo que estas intentando hacer.

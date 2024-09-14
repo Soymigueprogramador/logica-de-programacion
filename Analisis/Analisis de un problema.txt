@@ -1,0 +1,44 @@
+Analisis de un problema
+
+¿ Que es el analisis de un problema ?
+
+El analisis de un problema es comprender el proceso de un problema antes de crear una solucion.
+Esto implica descomponer un problema en partes mas pequeñas y manejables, encontrar el problema subyacente y crear una solucion rapida y efectiva. 
+
+Pasos para solucionar un problema:
+
+1- Identificar y comprender un problema.
+2- Establecer objetivos claros.
+3- Identificar requisitos y restricciones.
+4- Analizar las causas subyacentes.
+5- Explorar soluciones alternativas.
+6- Establecer criterios de exitos.
+
+Explicacion de cada paso: 
+
+1- Identificar el un problema:
+Entender en que consiste realmente el problema, identificar todos los detalles relevantes, las entradas y salidas esperadas y todas las
+limitaciones o restricciones que puedan existir.
+
+2- Establecer objetivos:
+¿ Cual es el objetivo final de resolver este problema ?, definir claramentos los objetivos ayuda a mantener el enfoque y a diseñar una solucion
+efectiva y que cumpla con lo esperado.
+
+3- Requisitos y restricciones: 
+Es importante tener en cuenta la espectativa de los usuarios inbolucrados en el problema.
+¿ Que funciones o caracteristicas son escenciales para ellos ? 
+No todas las soluciones sirven para todos los problemas, debemos escuchar al usuario antes de implementar alguna solucion. 
+
+4- Causas subyacentes:
+En ocaciones un problema puede ser un sintoma de una causa subyacente mas profunda, identificar y abordar identificar esta causa raiz es fundamental
+para evitar que este problema vuelva a surgir en el futuro. 
+
+5- Soluciones alternativas: 
+Antes de comprometerse con una solucion espesifica es util considerar diferentes enfoques y considerar sus ventajas y desventajas, esto 
+puede ayudar a encontrar la mejor manera para solucionar el problema. 
+
+6- Criterios de exito: 
+Definir claramente lo que constitura una solucion exitosa es crucial para evaluar progreso y rendimiento del programa una vez implementados,
+estos criterios pueden incluir: 1- Medidas de rendimientos.
+2- Calidad.
+3- Efisiencia entre otras cosas.
