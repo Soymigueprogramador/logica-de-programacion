@@ -1,0 +1,46 @@
+Diferencias de syntaxis entre lenguajes
+
+Condicionales:
+JavaScript y PHP: 
+Ambos utilizan: 
+1- Utilizan llaves {} para delimitar bloques de Codigo
+2- Utilizan punto y coma ; al final de cada linea.
+
+Python:
+1- Utiliza la identacion para delimitar bloques de codigo sin la necesidad de usar llaves {}
+
+Java:
+1- Utiliza llaves {} para delimitar bloques de codigo
+2- Utiliza punto y coma ; al final de cada declaracion
+
+Declaraciones de variables: 
+JavaScript, PHP y Python: 
+No requieren espesificar el tipo de la variable.
+
+Java: 
+Requiere espesificar el tipo de la variable ( int en este caso )
+
+Metodo de salida: 
+JavaScript: 
+Utiliza el console.log() para imprimir en la consola.
+Python: 
+Utiliza print para imprimir en la consola.
+Java:
+Utiliza System.out.printin para imprimir en la consola.
+PHP:
+Utiliza echo para imprimir en la consola. 
+
+Iteraciones: 
+JavaScript y PHP:
+Ambos utilizan:
+1- for, ( inicializacion, condicion e incremento ).
+2- Punto y coma ; para separar los bucles.
+
+Python:
+1- Utiliza la range( start, stop ) para generar una secuencia de numeros.
+2- El bucle for itera directamente sobre los numeros.
+
+Java:
+Utiliza una syntaxis simular a JavaScript y PHP:
+1- agregando int para definir el tipo de variable.
+2- Utiliza System.out.printin para imprimir en la consola. 

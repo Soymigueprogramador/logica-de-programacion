@@ -1,0 +1,57 @@
+Distintos tipos de estructuas de control.
+Las estructuras de control mas importantes son: 
+
+Estructuras condicionales: 
+Permite que el programa ejecute siertas de siciones solo si se cumplen ciertas de siciones. 
+Esto se logra mediante los condicionales como el 'if else'. 
+
+Codigo en estructuras condicionales:
+
+JavaScript
+let edad = 20;
+
+if( edad < 13 ) {
+    console.log('Eres un niño');
+} else if ( edad < 18 ) {
+    console.log('Eres un adolescente')
+} else {
+    console.log('Eres un adulto')
+}
+
+Java:
+public class Main {
+    public static void main(String[] args) {
+        int edad = 20;
+
+        if (edad < 13) {
+            System.out.println("Eres un niño");
+        } else if (edad < 18) {
+            System.out.println("Eres un adolescente");
+        } else {
+            System.out.println("Eres un adulto");
+        }
+    }
+}
+
+Python: 
+edad = 20
+
+if edad < 13:
+    print('Eres un niño')
+elif edad < 18:
+    print('Eres un adolescente')
+else:
+    print('Eres un adulto')
+
+PHP:
+<?php
+$edad = 20;
+
+if ($edad < 13) {
+    echo 'Eres un niño';
+} elseif ($edad < 18) {
+    echo 'Eres un adolescente';
+} else {
+    echo 'Eres un adulto';
+}
+?>

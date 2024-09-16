@@ -1,0 +1,31 @@
+Ejemplo 2: Retrasos con la entrega de paquetes de una empresa de correos. 
+
+consigna: 
+Una empresa de correos esta teniendo problemas con la entrega de sus paquetes.
+¿ Como podemos solucionar dicho problemas ?
+
+Pasos para solucionar el problema:
+1- Identificacion del problema:
+Los clientes reportan demoras en las entregas de sus paquetes, baja la satisfaccion de los clientes y la empresa esta perdiendo dinero. 
+
+2- Establecer objetivos:   
+A- Mejorar el tiempo de entrega de los paquetes, mejorando asi la satisfaccion de los clientes.
+B- Mejorar la inversion de la empresa en el sector de entregas, contratando mas personal o adquiriendo vehiculos mas grandes 
+
+3- Limitaciones y restricciones:
+Se debe tener en cuenta cosas como: 
+A- Los places de entrega ya comprometidos.
+B- Las distancias de entrega entre paquete y paquete. 
+C- La capacidad e infraestructura de los vehiculosD- La cantidad de personal disponible para las entregas. 
+
+4- Causas subyacentes: 
+Se debe descubrir y mejorar cosas como: 
+A- Administracion del tiempo de trabajo,
+B- Mejoras en la organisacion del recorrido.
+
+5- Soluciones alternativas: 
+A- Ofrecerle al cliente la posibilidad de ir a buscar su producto al punto de distribucion mas cercano.
+B-cONTRATAR A UNA EMPRESA TERCERISADA PARA AYUDARNOS CON LAS ENTREGAS. 
+
+6- cRITERIOS DE EXITO: 
+sE ESTABLECERAN CUALES VAN HACER LOS CRITERIOS PARA DEFINIR EL EXITO DE LA SOLUCION. 

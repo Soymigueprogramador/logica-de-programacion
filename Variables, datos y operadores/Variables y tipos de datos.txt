@@ -1,0 +1,77 @@
+Variables y tipos de datos
+
+JavaScript:
+let entero = 24;
+let flotante= 1.22;
+let booleano = true;
+let cadena = 'Miguel';
+
+console.log(entero)
+console.log(flotante)
+console.log(booleano)
+console.log(cadena)
+
+Java: 
+public class Main {
+    public static void main(String[] args) {
+        int entero = 24;
+        double flotante = 1.22;
+        boolean booleano = true;
+        String cadena = "Miguel";
+
+        System.out.println(entero);
+        System.out.println(flotante);
+        System.out.println(booleano);
+        System.out.println(cadena);
+    }
+}
+
+Python: 
+entero = 24
+flotante = 1.22
+booleano = True
+cadena = 'Miguel'
+
+print(entero)
+print(flotante)
+print(booleano)
+print(cadena)
+
+PHP: 
+<?php
+$entero = 24;
+$flotante = 1.22;
+$booleano = true;
+$cadena = 'Miguel';
+
+echo $entero . "\n";
+echo $flotante . "\n";
+echo $booleano ? 'true' . "\n" : 'false' . "\n";
+echo $cadena . "\n";
+?>
+
+Declaracion de variables:
+JavaScript y PHP:
+No requieren la espesificacion de la variable.
+Python:
+Permite la declaracion de variables sin la espesificacion explicita.
+Java:
+Requiere espesificar el tipo de variable ( int, double, string, booleano )
+
+Tipos de datos:
+JavaScript y PHP:
+Tienen tipos de datos dinamicos ( No requieren espesificar el tipo de dato )
+Python:
+Tiene tipado dinamico, similar a JavaScript y PHP pero utiliza True/False para booleanos en lugar de true/false
+Java:
+Es un lenguaje de tipado estatico y requiere espesificar el tipo de dato o variable. 
+
+Operadores: 
+JavaScript:
+utiliza console.log()
+Python:
+Utiliza sprint
+PHP:
+Utiliza echo y queriere la conversion manual del booleano a cadena de caracteres con ( $booleano ? 'true' : 'false' ) para mostrar true o false
+Java:
+Utiliza System.out.printIn

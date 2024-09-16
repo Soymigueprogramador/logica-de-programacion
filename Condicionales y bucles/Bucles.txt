@@ -1,0 +1,36 @@
+Distintos tipos de estructuas de control.
+Las estructuras de control mas importantes son:
+
+Estructuras de iteracion: 
+Dentro de este tipo de estructuras tenemos a los bucle que son estructuras de codigo que permiten repetir una o varias intrucciones multiples veces
+hasta que se cumpla una condicion espesifica. 
+Existen varios tipos de bucles como: 
+1- While
+2- For
+3- Do-while
+
+Estructuras de iteracion: 
+Codigo en JavaScript:
+for ( let i = 1; i <= 5; i++ ) {
+    console.log(i);
+}
+
+Java:
+public class Main {
+    public static void main(String[] args) {
+        for (int i = 1; i <= 5; i++) {
+            System.out.println(i);
+        }
+    }
+}
+
+Python: 
+for i in range(1, 6):
+    print(i)
+
+PHP:
+<?php
+for ($i = 1; $i <= 5; $i++) {
+    echo $i . "\n";
+}
+?>

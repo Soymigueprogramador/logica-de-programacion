@@ -1,0 +1,17 @@
+Variables, tipos de datos y operadores
+
+Variables: 
+Son contenedores que almacenan datos que pueden cambiar a lo largo del programa, se les asgina valores y 
+se utiliza para realizar operaciones.
+
+Yipos de datos: 
+Define la naturaleza de los valores que pueden ser utilizados en un programa.
+Los tipos de datos mas comunes son: 
+1- Enteros
+2- Decimales
+3- Cadena de texto ( string )
+4- Booleanos ( true o false )
+
+Operadores:
+Permiten manipular y comparar los datos almacenados en variables para producer nuevos valores, tomar desiciones y 
+controlar el flujo del programa. 

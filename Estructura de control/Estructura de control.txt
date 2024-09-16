@@ -1,0 +1,8 @@
+Estructura de control
+
+¿ Que es la estructura de control ?
+
+La estructura de control es un conjunto de instrucciones que permiten alterar el flujo de las operaciones. 
+Es decir que las estructuras de control dictan como y cuando se ejecutan las distintas partes del codigo. 
+Estas estructuras son fundamentales en la programacion ya que sin ellas los programas seguirian una ejecucionsecuencial y lineal, 
+sin poder realizar desiciones, desviaciones o repeticiones en el flujo del programa. 
