@@ -1,0 +1,62 @@
+Arreglos /arrays
+
+codigo de ejemplo en:
+JavaScript
+let numeros = [1, 2, 3];
+Console.log('Elemento', numeros[0]);
+Console.log('Elemento', numeros[0]);
+
+Java:
+public class Main {
+    public static void main(String[] args) {
+        int[] numeros = {1, 2, 3};
+        System.out.println("Elemento " + numeros[0]);
+        System.out.println("Elemento " + numeros[0]);
+    }
+}
+
+Python:
+numeros = [1, 2, 3]
+print("Elemento", numeros[0])
+print("Elemento", numeros[0])
+
+PHP:
+<?php
+$numeros = [1, 2, 3];
+echo "Elemento " . $numeros[0] . "\n";
+echo "Elemento " . $numeros[0] . "\n";
+?>
+
+Declaracion y iniciacion:
+JavaScript, Python y PHP:
+Usan una sintaxis simular para la definicion e iniciacion del arrays ( o lista en Python ).
+
+Java:
+Requiere la espesificacion del tipo de dato del array ( int[] en este caso ) y los arrays en Java tienen un tamaño fijo. 
+
+Acceso a elementos:
+JavaScript, Python y PHP:
+Usan la misma sintaxis de corchetes [] para acceder a los elementos.
+
+Java:
+Tambien usa corchetes [], pero es mas rigido en cuanto a tipos y tamaño del array. 
+
+Recorrido:
+JavaScript y PHP:
+Utilizan un bucle for para recorrer un arrays.
+
+Python: 
+Utiliza un bucle for simplificado para iterar directamente sobre los elementos. 
+
+Java: 
+Utiliza un bucle for tradicional con indice o un bucle for-each para recorrer arrays. 
+
+Manipulacion: 
+JavaScript, Python y PHP:
+Permiten agregar o eliminar elementos facilmente con metodos como: 
+1- push
+2- append
+3- array_pop
+
+Java: 
+Requiere la creacion de nuevos arrays para agregar o eliminar elementos debido a la naturaleza fija de los arrays.

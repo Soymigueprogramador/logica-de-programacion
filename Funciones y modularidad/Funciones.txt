@@ -1,0 +1,73 @@
+Funciones
+
+codigo en: 
+JavaScript: 
+function sumar(a, b) {
+    return a + b;
+};
+
+let resultado = suma(5, 3);
+console.log('El resultado es', resultado);
+
+Java:
+public class Main {
+    public static void main(String[] args) {
+        int resultado = sumar(5, 3);
+        System.out.println("El resultado es " + resultado);
+    }
+
+    public static int sumar(int a, int b) {
+        return a + b;
+    }
+}
+
+Python: 
+def sumar(a, b):
+    return a + b
+
+resultado = sumar(5, 3)
+print('El resultado es', resultado)
+
+PHP:
+<?php
+function sumar($a, $b) {
+    return $a + $b;
+}
+
+$resultado = sumar(5, 3);
+echo 'El resultado es ' . $resultado;
+?>
+
+Definicion de funciones:
+JavaScript: 
+1- Utiliza la palabra reservada funcion
+2- Las funciones pueden ser combocadas en cualquier lugar del codigo.
+
+Python:
+1- Utiliza la palabra reservada def para definir funciones.
+2- La funcion debe estar correctamente identada.
+
+Java:
+1- Define funciones dentro de clases ( espesificamente, metodos ) y requiere que se espesifique el tipo de retorno.
+2- La espesificacion debe estar dentro de una clase. 
+
+PHP:
+1- Utiliza la palabra reservada funcion similar a JavaScript.
+2- Las funciones pueden ser definidas en cualquier lugar del codigo. 
+
+Tipos de datos:
+JavaScript y PHP:
+Permiten el uso de datos dinamicos y no requieren espesificar el tipo de dato.
+
+Python: 
+Tambien tiene tipado dinamico y no requiere espesificar el tipo de retorno. 
+
+Java: 
+Requiere espesificar el tipo de retorno y el tipo de cada patron. 
+
+Llamada a la funcion: 
+JavaScript, Python y PHP:
+Las funciones se llaman directamente con el nombre de la funcion seguido de parentesis.
+
+Java:
+Las funciones ( metodos ) se llaman desde un metodo main u otro metodo en la misma clase. 

@@ -1,0 +1,22 @@
+Estructura de datos
+
+¿ Que es la estructura de datos ?
+La estructura de datos en programacion es una manera eficiente de almacenar, manipular y acceder a datos en una computadora. 
+Las estructuras de datos permiten que los programas manejen grandes cantidades de informacion de manera eficiente y efectiva, facilitando las 
+operaciones como busqueda, ubsercion modificacion y eliminacion de datos. 
+
+Arreglos (arrays):
+Son arreglos del mismo tipo almacenados en memoria continuas, permiten acceso rapido por indice. 
+
+Listas enlazadas (Linked list):
+Una serie de nodos que contiene una referencia al siguiente nodo en la secuencia. 
+
+Pilas (Stacks);
+Coleccion de elementos que sigue el principio FILO (fast, in ferst, out)
+
+Colas (queuse): 
+Coleccion de elementos que siguen el principio FIFO (ferst, in, first, out)
+
+Arboles (trees): 
+Estructura jerarquica en la que cada node tiene valor y referencia con uno o mas nodos hijos.
+un tipo comun de estructura es el arbol binario. 

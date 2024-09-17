@@ -1,3 +1,10 @@
 Funciones y modularidad
 
 Funciones: 
+Las funciones o procedimientos son bloques de codigo que realizan una tarea espesifica y que pueden ser reutulizados a lo largo del programa. 
+Su uso permite mejorar la organizacion, la legibilidad y la mantenibilidad del codigo. 
+
+Modularidad: 
+La modularidad se refiere a dividir un programa en partes mas pequeñas y manejables, llamado modulos o funciones. 
+Esto tiene varios beneficios. 
+
