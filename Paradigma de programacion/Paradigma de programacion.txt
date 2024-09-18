@@ -1,0 +1,24 @@
+¿ Que es el paradigma de programacion ?
+
+Un paradigma de programacion es un enfoque o estilo de programacion que guia y estructura un desarrolo de software. 
+Un paradigma define la manera en la que los programadores consectualizan y definen los problemas que deben resolver y dicta como se deben 
+resolver segun los lenguajes de programacion, y metodologias. 
+
+Paradigmas: 
+Programacion imperativa:
+Enforca en ejecutar instrucciones secuenciales que modifican el estado del programa.
+
+Programacion orientada a objetos (POO):
+Organiza el software en objetivos que encapsulan datos y comportamientos. Por ejemplo Java.
+
+Programacion funcional: 
+Se basa en funciones puras evitando el estado mutable y los efectos secundarios. 
+
+Programacion declarativa: 
+El programador espesifica que se debe hacer, no como hacerlo. Ejemplo SQL.
+
+Caracteristicas de la programacion orientada a objetos (POO): 
+Abstraccion: 
+Encapsulamiento
+Herencia
+Polimorfismo

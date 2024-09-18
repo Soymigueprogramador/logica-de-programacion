@@ -1,0 +1,24 @@
+¿ Que es el Pseudocodigo ?
+
+El pseudocodigo es una forma de escribir algoritmos en un lenguaje informar y sercano al lenguaje humano sin seguir la sintaxis de nungun 
+lenguaje en particulas.
+ Es una herramienta util para desarrollar soluciones antes de implementarlas en un codigo real. 
+
+Caracteristicas del pseudocodigo: 
+Lenguaje informal:
+Utiliza un lenguaje que es facil de entender y muy sercano al lenguaje natural. 
+
+Independiente de la sintaxis:
+No sigue las reglas de ningun lenguaje en espesifico. 
+
+Facilita la plafinicacion: 
+Ayuda a diseñar y organizar el algoritmo antes de escribir el codigo. 
+
+Accesible para todos:
+Puede ser entenido por programadores o por personas sin conocimientos tecnicos. 
+
+Estructuras logicas: 
+Emplea estructuras como condicionales, bucles y asginaciones de forma simple y directa. 
+
+Enfoque en la logica: 
+Se concentra en la logica y en la secuencia de pasos mas que en los detalles tecnicos. 
