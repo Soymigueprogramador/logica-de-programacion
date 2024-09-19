@@ -1,0 +1,49 @@
+¿ Que es el diagrama de flujo ?
+
+Un diagrama de flujo es una representacion grafica de un proceso o algoritmo donde se utilizan simbolos y flechas para mostrar la secuencia de pasos 
+y elacion entre ellos. 
+Es una herramienta visual que facilita la comprencion, el analisis y la comunicacion de procesos complejos.
+
+Caracteristicas del diagrama de flujo: 
+
+Visualizacion clara: 
+Representa procesos de manera visual, lo que facilita la comprencion. 
+
+Simbolos estandar:
+Usa simbolos estandarizados como: 
+1- Ovalos para inicio y fin
+2- Rectangulos para procesos
+3- Rombos para desiciones
+4- Flechas para indicar el flujo
+
+Secuencia de pasos: 
+Muestra el orden en que se deben realizar los procesos de un proceso.
+
+Identificacion de problemas:
+Ayuda a identificar cuellos de botellas, redundancia y otros problemas en un procesos. 
+
+Facilita la comunicacion:
+Es util para explicar procesos a personas de diferentes niveles de conocimiento. 
+
+Aplicaciones variadas: 
+Se usa en diferentes campos, como Ingenieria, Programacion, Administracion y Mas.
+
+Ejemplo: 
+¿ Como hacer un Te ?
+
+Ovalos:
+Los ovalos que a menudo tiene una forma similar a un circulo alargado, su utiliza para marcar el inicio y el final de un proceso. 
+
+Rectangulo: 
+Los rectangulos se utilizan para representar pasos en los que realiza una accion o se lleva a cabo un proceso. 
+Estos pasos son actividades que transforman los datos de entrada en resultados o llevan a cabo tareas espesificas. 
+
+Rombo:
+Los rombos se utilizan para representar puntos en los que se deben tomar desiciones. 
+Estas desiciones se responden con opciones binarias como: 
+1- Si o niveles2- Verdadero o Falso 
+Que determina el camino que debera tomar el flujo del proceso. 
+
+Trapecio: 
+El trapecio se utiliza espesificamente para representar operaciones de entrada (Input) o saluda (Output) como ingresardatos 
+o mostrar resultados.
