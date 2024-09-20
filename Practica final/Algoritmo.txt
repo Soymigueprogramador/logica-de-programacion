@@ -1,0 +1,28 @@
+ALGORITMO
+
+1- Ingresar los datos:
+Ingresar los datos por teclado.
+
+2- Convertir los datos:
+Convertir los datos de Fahrenheit a Celsius.
+
+3- Mostrar el resultado:
+Mostrar el resultado de la conversion.
+
+
+
+PSEUDOCODIGO
+
+Inicio
+    // 1. Ingresar los datos:
+          Ingresar los datos en grados Fahrenheit.
+          ' Ingresar la tempratura que se desea convertir'
+    
+    // 2. Convertir los datos:
+          Creamos la formula que nos permita convertir los grados Fahrenheit a Celsius.
+          temperaturaFahrenit = (temperaturaCelsius - 32) * ( 5/9 )    
+
+    // 3. Mostrar el resultado:
+          Mostramos el resultado por pantalla o por consola de una forma simple y clara.
+          Console.log('La temperatura en grados Celsius es': + temperaturaCelsius); 
+Fin

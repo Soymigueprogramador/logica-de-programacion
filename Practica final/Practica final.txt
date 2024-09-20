@@ -1,0 +1,31 @@
+Situacion
+
+Sara esta investigando como la temperatura influye en la velocidad de una reaccion quima espesifica. 
+Para ello, trabaja en un laboratorio se comparan datos de temperaturas en distintas unidades.
+Dado que los datos llegan en grados Fahrenheit desde estados unidos, Sara necesita vonvertirlos a 
+grados Celsius para poder utilizarlos en sus experimentos. 
+
+Pasos a seguir: 
+1- Definir la problematica.
+Sara necesita convertir los datos de los grados Fahrenheit a grados Celsius. 
+
+2- Establecer objetivos claros.
+Sara necesita convertir los grados Fahrenheit a grados Celsius de forma simple y que solo se muestren los datos necesarios.  
+
+3-Identificar problemas subyacentes.
+- Requisitos
+Se requiere presicion para la conversion de datos, automatizacion para las grandes cantidades de datos y compatibilidad con las 
+unidades de medicion ya existentes. 
+-Restricciones
+Las restricciones incluyen:
+A) Que los datos sean presisos y claros.
+B) Que los resultados se entreguen de forma inmediata y consisa. 
+
+4- Analizar causas subyacentes. 
+El problema surge porque los datos enviados son de una naturaleza distinta a los necesitador. 
+
+5- Explorar soluciones alternativas. 
+Necesitamos entregarle a Sara una solucion alternativa por si nuestra solucion no le funciona. 
+
+6-  Establecer criterios de exito. 
+Ncesitamos darle a Sara una solucion que funcione de manera simple y muestre los datos correctos. 
